@@ -1,9 +1,9 @@
 
-### AIPicture
+# AIPicture
 
 ## Teachable Machine
 
-# Code for learning pictures to compare objects to each other
+### Code for learning pictures to compare objects to each other
 
 Teachable Machine에서 샘플을 두 개의 버킷으로 나눕니다. 그렇기 때문에 아래의 그래프에 학습 및 테스트라는 두 개의 라벨이 표시됩니다.
 
@@ -18,4 +18,4 @@ Teachable Machine에서 샘플을 두 개의 버킷으로 나눕니다. 그렇�
 에포크 : 1에포크는 모든 학습 샘플이 모델을 통해 적어도 한번은 피드 되었다는 의미입니다. 예를 들어 에포크가 50으로 설정되어 있다면 학습 시키고 있는 모델이 전체 학습 데이터 세트를 50번 학습하게 됩니다.
 
 
-** Epoch : 200
+### Epoch : 200
